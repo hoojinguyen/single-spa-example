@@ -2,7 +2,7 @@
 
 This is an example of web app built with micro-frontend using [single-spa](https://single-spa.js.org/docs/getting-started-overview) framework
 
-# Installation
+## Installation
 
 1. Clone the repo
 
@@ -37,7 +37,7 @@ cd single-spa-example
 5. Navigate to http://localhost:9000/ in your browser
 6. And now you will see header, body, footer repos will be hosted on root
 
-# Current applications
+## Current applications
 
 1. single-spa-header (written in react)
 2. single-spa-body (written in vue)
